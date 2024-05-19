@@ -44,7 +44,7 @@ To do so, the local_manifests directory needs to be updated accordingly (I am no
 ### Step 1 - Basic tree synchronization
 ```Shell session
 cd .repo
-git clone https://github.com/lin18-microG/local_manifests 
+git clone https://github.com/tberd/local_manifests 
 cd local_manifests 
 git checkout lineage-18.1
 cd ../.. 
